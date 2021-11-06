@@ -1,0 +1,55 @@
+body {
+  background-color: rgb(24, 21, 21);
+  font-family: "VT323", monospace;
+  margin: 0;
+  font-size: 10px;
+}
+
+h1 > a {
+  text-decoration: none;
+  font-family: "Caveat", cursive;
+  font-size: 2rem;
+  color: #fd5f00;
+  margin: 0;
+}
+
+nav a {
+  font-size: 1rem;
+  color: #f9f8eb;
+  text-transform: initial;
+}
+
+.container {
+  width: 90%;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.container-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header {
+  padding: 0.8em 0;
+  /* border-bottom: 3px dotted oldlace; */
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+}
+
+nav li {
+  margin-left: 2em;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+nav a:hover, nav a:focus {
+  color: #fd5f00;
+}
