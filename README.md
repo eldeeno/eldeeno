@@ -1,4 +1,4 @@
-<img src="https://github.com/eldeeno/eldeeno/blob/main/assets/IMG_3760.jpg" width="100%" height="360"/>
+<img src="https://github.com/eldeeno/eldeeno/blob/main/assets/IMG_3760.jpg" width="100%" height="400"/>
 <div id="badges" align="center">
   <a target="_blank" href="https://www.linkedin.com/in/shamsuddeen-abdulkadir-319b7288">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
