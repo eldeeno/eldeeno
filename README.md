@@ -11,9 +11,9 @@
   <div>
     <img src="https://komarev.com/ghpvc/?username=eldeeno&style=flat-square&color=blue" alt=""/>
   </div>
-  <img src="https://github.com/eldeeno/eldeeno/blob/main/assets/IMG_3760.jpg" width="660" height="360"/>
+  <img src="https://github.com/eldeeno/eldeeno/blob/main/assets/IMG_3760.jpg" width="100%" height="360"/>
  
-  <h1>
+  <h4>
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> My name is Shmasuddeen but but my friends call me Shams (easier right?)
   </h1>
