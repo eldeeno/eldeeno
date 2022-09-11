@@ -7,7 +7,8 @@
     🎯 My Goal is to Contribute to as many **open source project** as possible.  
      I love to create different types of **contents**.  
 
-<span class="hljs-tag"></<span class="hljs-name">tr</span>></span>  
+<span class="hljs-tag"></<span class="hljs-name">tr</span>
+</span>  
 <span class="hljs-tag"></<span class="hljs-name">table</span>></span>  
 
 <div id="badges" align="center">
