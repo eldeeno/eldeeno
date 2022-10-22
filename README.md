@@ -14,6 +14,6 @@
  
   <h4>
     hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> My name is Shmasuddeen but but my friends call me Shams (easier right?). I am a fullstack PHP developer who works mostly with L:aravel and Vuejs.
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> My name is Shmasuddeen but but my friends call me Shams (easier right?). I am a fullstack PHP developer who works mostly with Laravel and Vuejs.
   </h1>
 </div>
